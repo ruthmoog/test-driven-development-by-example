@@ -22,7 +22,8 @@ Walkthrough of the book by Kent Beck
 1. Multi-Currency Money ✅
 2. Degenerate Objects ✅
 3. Equality for All ✅
-4. Privacy ⏳
+4. Privacy ✅
+5. Franc-ly Speaking ⏳
 
 
 
