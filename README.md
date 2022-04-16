@@ -14,6 +14,10 @@ Walkthrough of the book by Kent Beck
 - hashCode()
 - Equal null
 - Equal object
+- ~~5CHF * 2 = 10 CHF~~
+- Dollar/Franc duplication
+- Common equals
+- Common times
 
 
 ## Chapters
@@ -23,7 +27,8 @@ Walkthrough of the book by Kent Beck
 2. Degenerate Objects ✅
 3. Equality for All ✅
 4. Privacy ✅
-5. Franc-ly Speaking ⏳
+5. Franc-ly Speaking ✅
+6. Equality for All, Redux ⏳
 
 
 
