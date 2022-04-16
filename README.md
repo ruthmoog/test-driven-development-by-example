@@ -18,7 +18,8 @@ Walkthrough of the book by Kent Beck
 - Dollar/Franc duplication
 - ~~Common equals~~
 - Common times
-- Compare Francs with Dollars
+- ~~Compare Francs with Dollars~~
+- Currency?
 
 
 ## Chapters
@@ -30,7 +31,8 @@ Walkthrough of the book by Kent Beck
 4. Privacy ✅
 5. Franc-ly Speaking ✅
 6. Equality for All, Redux ✅
-7. Apples and Oranges ⏳
+7. Apples and Oranges ✅
+8. Makin' Objects ⏳
 
 
 
