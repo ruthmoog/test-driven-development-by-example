@@ -16,8 +16,9 @@ Walkthrough of the book by Kent Beck
 - Equal object
 - ~~5CHF * 2 = 10 CHF~~
 - Dollar/Franc duplication
-- Common equals
+- ~~Common equals~~
 - Common times
+- Compare Francs with Dollars
 
 
 ## Chapters
@@ -28,7 +29,8 @@ Walkthrough of the book by Kent Beck
 3. Equality for All ✅
 4. Privacy ✅
 5. Franc-ly Speaking ✅
-6. Equality for All, Redux ⏳
+6. Equality for All, Redux ✅
+7. Apples and Oranges ⏳
 
 
 
