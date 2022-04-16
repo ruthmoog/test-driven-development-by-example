@@ -5,7 +5,7 @@ Walkthrough of the book by Kent Beck
 
 ## To Do
 
-- $5 + 10 CHF = $10 if rate is 2:1
+- $5 + 10 CHF = £10 if rate is 2:1
 - ~~$5 * 2 = $10~~
 - ~~Make `amount` private~~
 - ~~Dollar side-effects?~~
@@ -14,10 +14,6 @@ Walkthrough of the book by Kent Beck
 - hashCode()
 - Equal null
 - Equal object
-- ~~5CHF * 2 = 10CHF~~
-- Dollar/Franc duplication
-- ~~Common equals~~
-- Common times
 
 
 ## Chapters
@@ -27,9 +23,7 @@ Walkthrough of the book by Kent Beck
 2. Degenerate Objects ✅
 3. Equality for All ✅
 4. Privacy ✅
-5. Franc-ly Speaking ✅
-6. Equality for All, Redux ✅
-7. Apples and Oranges ⏳
+5. Franc-ly Speaking ⏳
 
 
 
