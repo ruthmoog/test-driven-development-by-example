@@ -19,7 +19,8 @@ Walkthrough of the book by Kent Beck
 - ~~Common equals~~
 - Common times
 - ~~Compare Francs with Dollars~~
-- Currency?
+- ~~Currency?~~
+- Delete `testFrancMultiplication`
 
 
 ## Chapters
@@ -33,7 +34,8 @@ Walkthrough of the book by Kent Beck
 6. Equality for All, Redux ✅
 7. Apples and Oranges ✅
 8. Makin' Objects ✅
-9. Times We're Livin' In ⏳
+9. Times We're Livin' In ✅
+10. Interesting Times⏳
 
 
 
