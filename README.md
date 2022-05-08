@@ -17,7 +17,7 @@ Walkthrough of the book by Kent Beck
 - ~~5CHF * 2 = 10 CHF~~
 - ~~Dollar/Franc duplication~~
 - ~~Common equals~~
-- Common times
+- ~~Common times~~
 - ~~Compare Francs with Dollars~~
 - ~~Currency?~~
 - Delete `testFrancMultiplication`
@@ -35,7 +35,8 @@ Walkthrough of the book by Kent Beck
 7. Apples and Oranges ✅
 8. Makin' Objects ✅
 9. Times We're Livin' In ✅
-10. Interesting Times⏳
+10. Interesting Times ✅
+11. The Root of All Evil ⏳
 
 
 
