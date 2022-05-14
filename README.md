@@ -36,7 +36,8 @@ Walkthrough of the book by Kent Beck
 8. Makin' Objects ✅
 9. Times We're Livin' In ✅
 10. Interesting Times ✅
-11. The Root of All Evil ⏳
+11. The Root of All Evil ✅
+12. Addition, Finally ⏳
 
 
 
