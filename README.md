@@ -6,21 +6,11 @@ Walkthrough of the book by Kent Beck
 ## To Do
 
 - $5 + 10 CHF = £10 if rate is 2:1
-- ~~$5 * 2 = $10~~
-- ~~Make `amount` private~~
-- ~~Dollar side-effects?~~
+- $5 + $5 = $10
 - Money rounding?
-- ~~equals()~~
 - hashCode()
 - Equal null
 - Equal object
-- ~~5CHF * 2 = 10 CHF~~
-- ~~Dollar/Franc duplication~~
-- ~~Common equals~~
-- ~~Common times~~
-- ~~Compare Francs with Dollars~~
-- ~~Currency?~~
-- Delete `testFrancMultiplication`
 
 
 ## Chapters
@@ -37,8 +27,23 @@ Walkthrough of the book by Kent Beck
 9. Times We're Livin' In ✅
 10. Interesting Times ✅
 11. The Root of All Evil ✅
-12. Addition, Finally ⏳
+12. Addition, Finally ✅
+13. Make It ⏳
 
+
+## Done
+
+- ~~$5 * 2 = $10~~
+- ~~Make `amount` private~~
+- ~~Dollar side-effects?~~
+- ~~equals()~~
+- ~~5CHF * 2 = 10 CHF~~
+- ~~Dollar/Franc duplication~~
+- ~~Common equals~~
+- ~~Common times~~
+- ~~Compare Francs with Dollars~~
+- ~~Currency?~~
+- ~~Delete `testFrancMultiplication`.~~
 
 
 # Test-Driven Development: By Example 
