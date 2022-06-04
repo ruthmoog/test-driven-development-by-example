@@ -11,6 +11,10 @@ Walkthrough of the book by Kent Beck
 - hashCode()
 - Equal null
 - Equal object
+- Return Money from $5 + $5
+- ~~Bank.reduce(Money)~~
+- Reduce Money with conversion
+- Reduce(Bank, String)
 
 
 ## Chapters
@@ -28,7 +32,8 @@ Walkthrough of the book by Kent Beck
 10. Interesting Times ✅
 11. The Root of All Evil ✅
 12. Addition, Finally ✅
-13. Make It ⏳
+13. Make It ✅
+14. Change ⏳
 
 
 ## Done
