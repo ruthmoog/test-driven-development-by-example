@@ -5,7 +5,7 @@ Walkthrough of the book by Kent Beck
 
 ## To Do
 
-- $5 + 10 CHF = £10 if rate is 2:1
+- ~~$5 + 10 CHF = £10 if rate is 2:1~~
 - ~~$5 + $5 = $10~~
 - Money rounding?
 - hashCode()
@@ -15,6 +15,8 @@ Walkthrough of the book by Kent Beck
 - ~~Bank.reduce(Money)~~
 - ~~Reduce Money with conversion~~
 - ~~Reduce(Bank, String)~~
+- Sum.plus
+- Expression.times
 
 
 ## Chapters
@@ -34,7 +36,8 @@ Walkthrough of the book by Kent Beck
 12. Addition, Finally ✅
 13. Make It ✅
 14. Change ✅
-15. Mixed Currencies ⏳
+15. Mixed Currencies ✅
+16. Abstraction, Finally ⏳
 
 
 ## Done
