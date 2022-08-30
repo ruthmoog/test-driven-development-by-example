@@ -5,18 +5,12 @@ Walkthrough of the book by Kent Beck
 
 ## To Do
 
-- ~~$5 + 10 CHF = £10 if rate is 2:1~~
-- ~~$5 + $5 = $10~~
+
 - Money rounding?
 - hashCode()
-- Equal null
-- Equal object
-- Return Money from $5 + $5
-- ~~Bank.reduce(Money)~~
-- ~~Reduce Money with conversion~~
-- ~~Reduce(Bank, String)~~
-- Sum.plus
-- Expression.times
+- ~~Return Money from $5 + $5~~
+- ~~Sum.plus~~
+- ~~Expression.times~~
 
 
 ## Chapters
@@ -37,7 +31,8 @@ Walkthrough of the book by Kent Beck
 13. Make It ✅
 14. Change ✅
 15. Mixed Currencies ✅
-16. Abstraction, Finally ⏳
+16. Abstraction, Finally ✅
+17. Money Retrospective ⏳
 
 
 ## Done
@@ -53,6 +48,13 @@ Walkthrough of the book by Kent Beck
 - ~~Compare Francs with Dollars~~
 - ~~Currency?~~
 - ~~Delete `testFrancMultiplication`.~~
+- ~~Bank.reduce(Money)~~
+- ~~Reduce Money with conversion~~
+- ~~Reduce(Bank, String)~~
+- ~~$5 + 10 CHF = £10 if rate is 2:1~~
+- ~~$5 + $5 = $10~~
+- ~~Equal null~~
+- ~~Equal object~~
 
 
 # Test-Driven Development: By Example 
